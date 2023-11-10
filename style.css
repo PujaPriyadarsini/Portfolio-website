@@ -1,0 +1,99 @@
+
+.container{
+    padding: 20px;
+    
+}
+.section-one{
+    background-color: black;
+   color: white;
+   padding: 10px;
+   display: block;
+}
+.section-five{
+    background-color: black;
+   color: white;
+   padding: 10px;
+   display: block;
+}
+.section-three{
+    text-align: left;
+    height: 250px;
+    background-color: violet;
+   color: black;
+   padding: 10px;
+   display: inline-block;
+   border-radius: 10px;
+   vertical-align: top;
+}
+.section-four{
+    height: 250px;
+    background-color: orange;
+   color: black;
+   padding: 10px;
+   display: inline-block;
+   border-radius: 10px;
+   vertical-align: top;
+}
+#contact{padding: 3px;
+    background-color: rgb(221, 64, 7);
+    color: white;
+    text-decoration: none;
+}
+#contact:hover{
+    background: 1px rgb(236, 103, 54) ;
+    color-scheme: white;
+}
+#contact:active{border: solid 1px rgb(221, 64, 7) ;
+    background: 1px black;
+    color-scheme: white;
+}
+.section-one,.section-two,.section-three,.section-five,.section-four{
+    font-family: 'Young Serif', serif;}
+
+li{
+    list-style-type: none;
+}
+#name{
+    font-size: 40px;
+}
+ #insta,#linkedin{ color: aquamarine;
+ }
+
+h1{ font-size: larger;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+h2{font-size: large;}
+.section-three,.section-four{
+    text-align: left;
+}
+.submit{
+    border: 0px;
+    width: 50px;
+    height: 25px;
+    padding: 5px;
+    background-color: rgb(221, 64, 7);
+    color: white;
+    text-decoration: none;}
+
+.submit:hover{
+        background: 1px rgb(236, 103, 54) ;
+        color-scheme: white;
+    }
+.submit:active{border: solid 1px rgb(221, 64, 7) ;
+        background: 1px black;
+        color-scheme: white;
+    }
+
+textarea{ 
+    vertical-align: top;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+#name{
+    font-size: 30px;
+}
+table{
+    width: 400px;
+    height: 300px;
+}
